@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto:wght@100;300&family=Wix+Madefor+Display&display=swap');
+
+body{
+    font-family:  'Wix Madefor Display', sans-serif;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    max-width: 300px! important;
+}
